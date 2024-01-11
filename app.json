@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "xii-rpl-5--541211175-valent-aditya-hermanus-myapp",
+    "slug": "snack-bcda20b0-2f1c-4c11-ad85-d46854fee0b8",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.valent.snackbcda20b02f1c4c11ad85d46854fee0b8"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ddeec2bd-3eed-458a-aee2-87f46a77a087"
+      }
+    }
+  }
+}
